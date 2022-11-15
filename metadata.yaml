@@ -1,0 +1,34 @@
+_repo: Examination-of-the-Rev-Mr-Harris-s-scriptural-researches-on-the-licitness-of-the-slave-trade_69233
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ramsay, James
+    birthdate: 1733
+    deathdate: 1789
+    gutenberg_agent_id: '55176'
+    url: http://www.gutenberg.org/2009/agents/55176
+    wikipedia: https://en.wikipedia.org/wiki/James_Ramsay_(abolitionist)
+description: ''
+gutenberg_issued: '2022-10-25'
+identifiers:
+  gutenberg: '69233'
+  lccn: '49038949'
+language: en
+pgterms:marc905: 20220212155530ramsay
+pgterms:marc906: '1788'
+pgterms:marc907: GB
+production_note: John Campbell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United Kingdom: James Phillips,1788.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slave trade -- Early works to 1800'
+- !lcsh 'Harris, R. (Raymund). Scriptural researches on the licitness of the slave
+  trade'
+- !lcc 'HT'
+- GITenberg
+title: Examination of the Rev. Mr. Harris's scriptural researches on the licitness
+  of the slave trade
+url: http://www.gutenberg.org/ebooks/69233
