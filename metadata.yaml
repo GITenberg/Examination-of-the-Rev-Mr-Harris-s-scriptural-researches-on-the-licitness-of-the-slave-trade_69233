@@ -1,5 +1,8 @@
 _repo: Examination-of-the-Rev-Mr-Harris-s-scriptural-researches-on-the-licitness-of-the-slave-trade_69233
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69233-h/images/cover.jpg
 creator:
   author:
     agent_name: Ramsay, James
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55176
     wikipedia: https://en.wikipedia.org/wiki/James_Ramsay_(abolitionist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69233#Examination-of-the-Rev-Mr-Harris-s-scriptural-researches-on-the-licitness-of-the-slave-trade
 gutenberg_issued: '2022-10-25'
 identifiers:
   gutenberg: '69233'
